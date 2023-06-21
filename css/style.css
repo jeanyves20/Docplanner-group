@@ -1,0 +1,129 @@
+.active {
+    color: #00b39b !important;
+}
+
+li>a:hover {
+    color: #81ddd1 !important;
+}
+
+.banner-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 8rem;
+}
+
+.titlecolor {
+    color: #00b39b;
+    font-size: 3.29rem;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+    padding-top: 20px;
+}
+
+.active1 {
+    color: #747474;
+    font-size: 16px;
+    padding-left: 260px;
+    padding-right: 280px;
+}
+
+.bleu {
+    background-color: #3d83df !important;
+    color: #fff;
+}
+
+.vert {
+    background-color: #00ccb1 !important;
+    color: #fff;
+}
+
+.noir {
+    background-color: #1b2734 !important;
+    color: #fff;
+}
+
+.font {
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+    font-family: Work Sans, Arial, sans-serif !important;
+}
+
+.text {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.outline {
+    border: none;
+}
+
+
+.title2 {
+    font-size: 2.1428571429em;
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.5px;
+    text-align: center;
+}
+
+.text2 {
+    margin: 1.6em 0;
+    line-height: 1.7142857143;
+    text-align: center;
+    font-weight: 400;
+    font-family: Roboto, Arial, sans-serif;
+    color: #747474;
+}
+
+.display {
+    display: block;
+}
+
+.image {
+    display: inline !important;
+    justify-content: space-between !important;
+    justify-content: space-around !important;
+}
+
+
+.grey {
+    font-size: 2.1428571429em;
+    color:  #747474;
+    margin-bottom: 0.75em;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+    text-align: center;
+}
+
+
+.button {
+    margin-left: 120px;
+    background-color: #3d83df;
+    color: #fff;
+    font-family: Roboto, Arial, sans-serif;
+    border-radius: 4px;
+    text-align: center;
+    border: #fff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    font-size: 12px;
+}
+
+
+.box-shadow:hover{box-shadow:6px 8px 6px 8px #747474!important;}
+
+.card-foter{
+    display: flex;
+    justify-content: space-between !important;
+}
